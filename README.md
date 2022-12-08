@@ -8,6 +8,6 @@ In terms of following, we started with almost none. However, thanks to you all, 
 
 But there has also been growth in terms of languages. I had joined GitHub as an intermediate Python developer, but then found the motivation to pursue web development in HTML, CSS & JavaScript. The numbers on Codersrank are staggering, and you all provide the motivation for me to keep going.
 
-On the downside, I am aware that I have not been reguarly uploading videos to my YouTube channel (https://www.youtube.com/@CM7K). I can assure you that this will change in the fuutre, starting with a 1 year on GitHub special. As always, stay followed and subscribed!
+On the downside, I am aware that I have not been reguarly uploading videos to my YouTube channel (https://www.youtube.com/@CM7K). I can assure you that this will change in the future, starting with a '1 year on GitHub' special. As always, stay followed and subscribed!
 
 Thank you!
